@@ -39,7 +39,7 @@ return`
 │ ⚠️ *Comandos que o dono usa*
 │
 ╰────⟪Lukeraaa⟫────┈✯
-©     _*Copyright by skiller*_
+©     _*Copyright by Lukera*_
 ®     _*dominando tudo⚡*_ 
 ╘────────────💫`
 
